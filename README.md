@@ -1,7 +1,7 @@
 # CSCI-300
 
 ## Assignments:
-- Assignment 1: Closing and Opening Accounts
+- Assignment 1: Closing and Opening Accounts ( Creating Methods / Constructors )
 
 - Assignment 2:
 
