@@ -1,4 +1,12 @@
 # CSCI-300
-- Assignments Given Throughout Computer Science II
 
-## Assignment 1: Opening and Closing Accounts
+## Assignments:
+- Assignment 1: Closing and Opening Accounts
+
+- Assignment 2:
+
+- Assignment 3: Flexible Account Class (Overloading Methods)
+
+- Assignment 4: Summing Numbers & Parameter Lists (cmd line)
+
+- Assignment 5:
